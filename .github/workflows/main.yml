@@ -9,6 +9,9 @@ jobs:
       - name: Checkout master
         uses: actions/checkout@v1
 
+      - name: Install extentions
+      - run: pip install mdx_truly_sane_lists
+
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
