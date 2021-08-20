@@ -3,6 +3,7 @@ site_description: 'Documentation for Nertivia-Compose'
 site_author: 'Cyber'
 docs_dir: docs/
 repo_url: 'https://github.com/Nertivia-Compose/instance'
+edit_uri: 'https://github.com/Nertivia-Compose/docs/edit/main/docs'
 nav:
     - Home: index.md
     - Requirements: requirements.md
