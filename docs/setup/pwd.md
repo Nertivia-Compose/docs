@@ -1,4 +1,4 @@
-1. Clone nertivia-compose repo using git clone `https://github.com/Nertivia-Compose/instance`
+1. Clone nertivia-compose repo using `git clone https://github.com/Nertivia-Compose/instance`
 2. Enter the repo directory using `cd instance`
 3. Rename `.env.example` to `.env` using `mv .env.example .env`
 4. Open `.env` file using `vim .env` and switch to insert mode using `i` key
