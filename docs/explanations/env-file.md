@@ -11,7 +11,7 @@ Suffix: `_PORT`
  - The port server is running on
 
 ### MONGODB
- - The port database server in running on (no user if connected to remote database)
+ - The port database server in running on (no use if connected to remote database)
 
 ### CDN
  - The port CDN is running on
